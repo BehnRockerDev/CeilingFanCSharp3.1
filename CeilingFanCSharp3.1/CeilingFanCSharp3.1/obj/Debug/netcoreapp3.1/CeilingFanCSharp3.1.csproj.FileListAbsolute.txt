@@ -1,0 +1,14 @@
+C:\Users\Behn\Developer\Git\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\bin\Debug\netcoreapp3.1\CeilingFanCSharp3.1.exe
+C:\Users\Behn\Developer\Git\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\bin\Debug\netcoreapp3.1\CeilingFanCSharp3.1.deps.json
+C:\Users\Behn\Developer\Git\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\bin\Debug\netcoreapp3.1\CeilingFanCSharp3.1.runtimeconfig.json
+C:\Users\Behn\Developer\Git\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\bin\Debug\netcoreapp3.1\CeilingFanCSharp3.1.runtimeconfig.dev.json
+C:\Users\Behn\Developer\Git\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\bin\Debug\netcoreapp3.1\CeilingFanCSharp3.1.dll
+C:\Users\Behn\Developer\Git\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\bin\Debug\netcoreapp3.1\CeilingFanCSharp3.1.pdb
+C:\Users\Behn\Developer\Git\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\obj\Debug\netcoreapp3.1\CeilingFanCSharp3.1.csproj.AssemblyReference.cache
+C:\Users\Behn\Developer\Git\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\obj\Debug\netcoreapp3.1\CeilingFanCSharp3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Behn\Developer\Git\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\obj\Debug\netcoreapp3.1\CeilingFanCSharp3.1.AssemblyInfoInputs.cache
+C:\Users\Behn\Developer\Git\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\obj\Debug\netcoreapp3.1\CeilingFanCSharp3.1.AssemblyInfo.cs
+C:\Users\Behn\Developer\Git\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\obj\Debug\netcoreapp3.1\CeilingFanCSharp3.1.csproj.CoreCompileInputs.cache
+C:\Users\Behn\Developer\Git\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\obj\Debug\netcoreapp3.1\CeilingFanCSharp3.1.dll
+C:\Users\Behn\Developer\Git\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\obj\Debug\netcoreapp3.1\CeilingFanCSharp3.1.pdb
+C:\Users\Behn\Developer\Git\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\CeilingFanCSharp3.1\obj\Debug\netcoreapp3.1\CeilingFanCSharp3.1.genruntimeconfig.cache
